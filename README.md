@@ -1,5 +1,5 @@
 # Merge-Testing
-Hello Remote
+Hello Remote\n
 Hello again remote
 Hello branch-as
 Hello branch-aa
