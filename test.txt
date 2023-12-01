@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello world branch-ab
-=======
 Hello world branch-aa
->>>>>>> branch-a
